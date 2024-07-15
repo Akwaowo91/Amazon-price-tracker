@@ -1,8 +1,8 @@
 ## Table of Contents
-- [About](#-about)
-- [How to Build](#-how-to-build)
-- [Documentation](#-documentation)
-- [Feedback and Contributions](#-feedback-and-contributions)
+- About
+- How to Build
+- Documentation
+- Feedback and Contributions
   
 
 
@@ -71,12 +71,13 @@ pip install requests lxml beautifulsoup4
 I have made every effort to implement all the main aspects of the Amazon Price Tracker in the best possible way. However, the development journey doesn't end here, and your input is crucial for our continuous improvement.
 
 > [!IMPORTANT]
-> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the Abblix OIDC Server library more robust and user-friendly.
+> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the amazon price tracker more robust and user-friendly.
 
-Please feel free to contribute by [submitting an issue](https://github.com/Akwaowo91/Amazon-price-tracker.Server/issues)
-We appreciate your support and look forward to making our product even better with your help!
+Please feel free to submit an issue or open an issue on this repository, if you have any feedback or suggestions.
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements or new features.
+I appreciate your support and look forward to making this product even better with your help!
 
-Feel free to replace placeholder texts like "your-username", "your-email@gmail.com", and the repository URL with the actual details. This README structure provides a clear and comprehensive overview of your project, guiding users on how to use and contribute to it.
+For more questions you can reach me through my email: (akwaowoudokop15@gmail.com)
 
             
        
